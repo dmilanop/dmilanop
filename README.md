@@ -1,5 +1,5 @@
 
-# Hi, I'm Diego Milano  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="30" />
+# Hi, I'm Luis Milano  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="30" />
 Full-Stack Developer :computer:
 # About me
 <li>:round_pushpin: I'm from Caracas, Venezuela</li>
